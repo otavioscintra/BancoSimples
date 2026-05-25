@@ -15,6 +15,7 @@ valores menores ou iguais ao seu saldo disponível.
 ## Tecnologias Utilizadas
 
 **Python 3.14.0** 
+
 **Módulo Nativo *abc***
 
 ## Estrutura do projeto
