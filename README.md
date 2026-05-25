@@ -1,5 +1,4 @@
-# BancoSimples
-Um sistema de banco simples feito em Python.
+
 # BancoSimples - Sistema de Simulação Bancária em Python
 
 ### Esse projeto é uma simulação de Back-End feita como metôdo de estudo e treino.
