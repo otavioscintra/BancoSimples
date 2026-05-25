@@ -8,7 +8,7 @@
 **Cadastro de Clientes:** Permite criar perfis com validação de dados básicos, 
 sendo que cada cliente possui um vínculo direto e único com a sua conta bancária.
 
-**Este projeto** conta com diferentes tipos de contas e operações, sendo elas:
+**Este projeto** usuários com diferentes tipos de contas e operações, sendo elas:
 **Conta Poupança (CP):**  o usuário só pode sacar
 valores menores ou iguais ao seu saldo disponível;
 
